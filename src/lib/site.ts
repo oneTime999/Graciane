@@ -48,27 +48,27 @@ export const SERVICE_CATEGORIES = [
 
 export const GALLERY_IMAGES = [
   {
-    src: "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=900&q=80",
+    src: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/unha1.jpg",
     alt: "Unhas decoradas em tons nude",
   },
   {
-    src: "https://images.unsplash.com/photo-1610992015732-2449b76344bc?auto=format&fit=crop&w=900&q=80",
+    src: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/unha2.jpg",
     alt: "Nail art elegante",
   },
   {
-    src: "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=900&q=80",
+    src: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/unha3.jpg",
     alt: "Manicure profissional em andamento",
   },
   {
-    src: "https://images.unsplash.com/photo-1607779097040-26e80aa78e66?auto=format&fit=crop&w=900&q=80",
+    src: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/unha4.jpg",
     alt: "Unhas em gel finalizadas",
   },
   {
-    src: "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=900&q=80",
+    src: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/unha5.jpg",
     alt: "Esmaltes de tons sofisticados",
   },
   {
-    src: "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=900&q=80",
+    src: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/unha6.jpg",
     alt: "Cuidados com as unhas",
   },
 ];
