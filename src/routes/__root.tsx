@@ -94,8 +94,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:title", content: "Graciane Horácio | Nail Designer em Santa Adélia - SP" },
       { name: "twitter:description", content: "Há 11 anos transformando unhas em obras de arte. Alongamentos, esmaltação em gel e manicure em Santa Adélia - SP. Agende pelo WhatsApp." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/94200b4c-dd16-4c65-84ef-28e4e8188f4d/id-preview-df5ebb74--8dc59a20-b60e-40a0-ba4b-c8c81f15147b.lovable.app-1783888723160.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/94200b4c-dd16-4c65-84ef-28e4e8188f4d/id-preview-df5ebb74--8dc59a20-b60e-40a0-ba4b-c8c81f15147b.lovable.app-1783888723160.png" },
+      { property: "og:image", content: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/fundo1.jpg" },
+      { name: "twitter:image", content: "https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/fundo1.jpg" },
     ],
     links: [
       {
