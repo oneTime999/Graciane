@@ -50,7 +50,7 @@ export function Hero() {
               loading="eager"
             />
             <div className="absolute -bottom-5 left-1/2 flex -translate-x-1/2 items-center gap-3 rounded-2xl border bg-card px-6 py-3 shadow-soft">
-              <span className="font-display text-3xl font-semibold text-primary">11</span>
+              <span className="font-display text-3xl font-semibold text-primary">XI</span>
               <span className="text-xs leading-tight font-medium text-muted-foreground">
                 anos de
                 <br />
