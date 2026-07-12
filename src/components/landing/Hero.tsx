@@ -44,7 +44,7 @@ export function Hero() {
           <div className="relative mx-auto max-w-sm md:max-w-none">
             <div className="absolute -inset-4 rounded-[2.5rem] bg-gradient-gold opacity-15 blur-2xl" />
             <img
-              src="https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=900&q=80"
+              src="https://raw.githubusercontent.com/oneTime999/Graciane/refs/heads/main/images/graciane.jpg"
               alt="Trabalho de nail design por Graciane Horácio"
               className="relative aspect-[4/5] w-full rounded-[2rem] object-cover shadow-soft"
               loading="eager"
