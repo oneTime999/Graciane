@@ -68,7 +68,7 @@ export const GALLERY_IMAGES = [
     alt: "Esmaltes de tons sofisticados",
   },
   {
-    src: "https://images.unsplash.com/photo-1600428853876-fb5a850b444f?auto=format&fit=crop&w=900&q=80",
+    src: "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=900&q=80",
     alt: "Cuidados com as unhas",
   },
 ];
