@@ -84,14 +84,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "Há 11 anos transformando unhas em obras de arte. Alongamentos, esmaltação em gel e manicure em Santa Adélia - SP. Agende pelo WhatsApp.",
       },
       { name: "author", content: "Graciane Horácio" },
-      { property: "og:title", content: "Graciane Horácio | Nail Designer" },
+      { property: "og:title", content: "Graciane Horácio | Nail Designer em Santa Adélia - SP" },
       {
         property: "og:description",
         content:
-          "Há 11 anos transformando unhas em obras de arte. Agende seu horário pelo WhatsApp.",
+          "Há 11 anos transformando unhas em obras de arte. Alongamentos, esmaltação em gel e manicure em Santa Adélia - SP. Agende pelo WhatsApp.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Graciane Horácio | Nail Designer em Santa Adélia - SP" },
+      { name: "twitter:description", content: "Há 11 anos transformando unhas em obras de arte. Alongamentos, esmaltação em gel e manicure em Santa Adélia - SP. Agende pelo WhatsApp." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/94200b4c-dd16-4c65-84ef-28e4e8188f4d/id-preview-df5ebb74--8dc59a20-b60e-40a0-ba4b-c8c81f15147b.lovable.app-1783888723160.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/94200b4c-dd16-4c65-84ef-28e4e8188f4d/id-preview-df5ebb74--8dc59a20-b60e-40a0-ba4b-c8c81f15147b.lovable.app-1783888723160.png" },
     ],
     links: [
       {
