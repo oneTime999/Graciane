@@ -20,7 +20,7 @@ export function Footer() {
             <p className="mt-1 text-sm tracking-widest text-muted-foreground uppercase">
               Nail Designer
             </p>
-            <p className="mt-4 text-sm text-muted-foreground">10 anos de experiência</p>
+            <p className="mt-4 text-sm text-muted-foreground">11 anos de experiência</p>
           </div>
 
           <div>
